@@ -1,5 +1,5 @@
 =============
-Cookiecutter
+Cookiecutter Kagiso
 =============
 
 .. image:: https://badge.fury.io/py/cookiecutter.png
