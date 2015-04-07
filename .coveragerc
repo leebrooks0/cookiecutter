@@ -1,12 +1,6 @@
 [run]
 branch = True
 source = <project-name>
-omit=
-  manage.py
-  venv/*
-  cas/*
-  api/migrations/*
-  api/tests/*
 [report]
 exclude_lines =
     pragma: no cover
